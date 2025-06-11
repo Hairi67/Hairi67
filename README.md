@@ -21,7 +21,7 @@ A custom pipelined RISC-V processor with:
 
 ## 📫 Get in touch
 - ✉️ Email: [hairi.nguyen4617@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/hairi67/]
+- 💼 LinkedIn: [www.linkedin.com/in/hairi67/]
 
 ---
 
